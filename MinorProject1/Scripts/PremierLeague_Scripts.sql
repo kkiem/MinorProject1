@@ -1,0 +1,2 @@
+SELECT * FROM Club;
+SELECT * FROM Player;
